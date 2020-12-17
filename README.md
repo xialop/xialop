@@ -4,7 +4,6 @@
 - 🌱 I’m currently studying
 - 🇮🇷 Living in Iran
 - 📫 How to reach me: [xialop](https://telegram.me/xialop)
-- ⚡ Fun fact: im a noob
 -->
 
 ### Available 👇
