@@ -1,9 +1,9 @@
 ### [👋](https://telegram.dog/GoldDev) I'm [xialop](https://telegram.me/xialop),
 
-- 🔭 I’m currently working with php , c++ , python
+- 🔭 I’m currently working with php , python , c , c++
 - 🌱 I’m currently studying
 - 🇮🇷 Living in Iran
-- 📫 How to reach me: [xialop](https://telegram.me/xialop)
+- 📫 How to reach me: [LampStack](https://t.me/LampStack)
 -->
 
 ### Available 👇
